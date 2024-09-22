@@ -1,328 +1,11 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
-MSG: Failed to load data from api
-retrying in 3 seconds
-Error: TooManyRequests
-[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960252054 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960267154 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960282632 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960298467 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960313577 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960328699 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960343867 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960358976 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960374133 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960389239 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960404353 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960419461 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960434570 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960449691 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960464789 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960479886 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960495834 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960510932 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960538085 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960541152 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960568271 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960583377 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960598489 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960613584 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960628685 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960631753 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960646930 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960650004 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960665136 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960680261 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960683332 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960698648 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726964407303 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960713750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964410376 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -332,58 +15,42 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960728857 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960731985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964425470 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960747087 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964428539 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960750165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964431612 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960765567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964434684 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960780686 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964437756 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960783754 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964440829 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -393,55 +60,42 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960798846 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960801920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964455916 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960804989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964458983 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960820110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964462071 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960823182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964465135 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960838286 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964468208 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960841356 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964471277 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -451,671 +105,539 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960856468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964486366 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960859538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964489429 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960874643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964492492 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960889759 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964495561 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960893432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964498637 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960908528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964501699 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960911591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964504766 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960926696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964507835 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960929758 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964510899 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960944866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964513969 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960959960 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964517103 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960963025 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964520166 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960978129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964523227 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960981193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964526304 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726960984325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964529373 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726960999438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964533227 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961002504 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964536377 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961017600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964539457 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961033352 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964542517 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961048482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964545582 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961051551 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964548650 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961055325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964551718 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961070429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964554781 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961085529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964557856 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961100648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964560933 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961104390 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964563996 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961113484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964567060 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961116561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964570252 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961119632 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964573311 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961134744 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964576374 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961137813 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964579437 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961152908 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964582503 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961155988 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964585576 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961171088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964588649 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961175189 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964591720 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961185100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964594794 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961188163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964597884 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961191226 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964600959 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961206327 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964604023 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961221436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964607105 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961236537 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964610169 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961239623 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964613234 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961254716 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964616304 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961269861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964619374 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961272921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964622444 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961288020 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964625512 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961303127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964628576 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961307039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964631641 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961322136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964634705 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961325439 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964637771 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961340542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964640837 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961343608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964643922 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961358710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964646998 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961361775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964651214 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961377407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964654283 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961392520 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964657350 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961395588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964660415 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961410717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964663481 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961425810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964666546 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961428890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964669636 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961431951 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964672693 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961447062 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964675843 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961450152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964678915 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961465256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964681976 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961498528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964685040 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961501617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964688110 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961517746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964692023 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961520819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964695784 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961523878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964698850 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961539310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964701947 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961554407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964705012 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961557467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964708096 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961572576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964711176 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961587672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964714241 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961590734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964717308 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961605847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964720379 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961608930 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964723904 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1125,75 +647,63 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961624037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964739624 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961639154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964742689 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961642228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964745755 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961645288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964748815 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961660381 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964751882 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961663447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964754941 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961678542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964758011 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961681620 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964761086 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961696719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964764155 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1203,75 +713,63 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961711841 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964779295 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961714910 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964782360 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961730029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964785435 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961733089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964788502 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961748189 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964791567 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961763927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964794628 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961779024 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964797696 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961782094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964800754 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961785156 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964804875 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1281,58 +779,49 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961800252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964820021 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961803343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964823091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961818442 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964826158 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961833540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964829218 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961836612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964832283 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961851727 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964835524 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961854792 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964838597 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1342,68 +831,56 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961869903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964853717 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961872959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964856782 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961888067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964859968 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961903158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964863031 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961906990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964866112 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961922309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964869178 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961937407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964872251 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961940480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964875318 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1413,202 +890,161 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961955576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964890450 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961970668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964893525 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961973743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964896590 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726961988842 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964900152 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726961991920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964903233 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962007016 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964906300 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962010097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964909363 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962025194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964912436 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962040541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964915510 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962043607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964918576 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962058735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964921652 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962061802 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964924716 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962076894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964927788 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962079962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964931713 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962095060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964935611 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962110160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964939381 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962113222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964943130 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
-stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-1 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962010262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964946659 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962025373 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964949729 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962040495 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964952803 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962043950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964955863 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962059067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964958930 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962062138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964962027 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1618,44 +1054,41 @@ stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962077233 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964977137 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962080329 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964981182 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962096226 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964984313 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726962111335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964987376 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726962114401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726964990438 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 morning-lawyers.gl.at.ply.gg:3441 => 127.0.0.1:3441 (proto: Udp, port count: 1)
 stars-dir.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
